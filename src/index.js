@@ -6,6 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Header from './components/Header'
 import Contact from './components/Contact'
+import Footer from './components/Footer'
 // import Service from './components/service'
 // import About from './components/About'
 
@@ -22,10 +23,12 @@ ReactDOM.render(
         <Route path="/contact" element={<Contact />} /> 
        
       </Routes>
+      < Footer/>
     </Router>
   </React.StrictMode>,
   document.getElementById("root")
 );
+
 
 
 

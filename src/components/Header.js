@@ -12,7 +12,7 @@ const Header = () => {
             src={logo}
             height="75"
             className="d-inline-block align-top ml-2"
-            alt="Your logo"
+            alt="copyright"
           />
         </Navbar.Brand>
       </LinkContainer>
