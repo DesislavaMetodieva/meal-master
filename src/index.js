@@ -23,7 +23,7 @@ ReactDOM.render(
         <Route path="/contact" element={<Contact />} /> 
        
       </Routes>
-      < Footer/>
+      <Footer/>
     </Router>
   </React.StrictMode>,
   document.getElementById("root")
