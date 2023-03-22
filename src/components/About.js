@@ -32,7 +32,7 @@ Our product streamlines the recipe-finding and meal planning process, saving use
               
             </p>
            
-            <div className='button'> <a href = "https://github.com/DesislavaMetodieva/meal-master">View Repo</a></div> 
+            <div className='inputBox-btn'> <a href = "https://github.com/DesislavaMetodieva/meal-master">View Repo</a></div> 
           </div>
         </div>
       </div>
